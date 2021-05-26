@@ -26,7 +26,7 @@ _You **can** combine them_
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-As Kanye West said:
+As Kanye West - who is he? - said:
 
 > We're living the future so
 > the present is our past.
@@ -44,7 +44,7 @@ function fancyAlert(arg) {
 
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] this is an incomplete item, now completed
 
   
 First Header | Second Header
